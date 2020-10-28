@@ -1,6 +1,6 @@
 ﻿Team,Division
 Miami Dolphins,AFC East
-Tennessee Titans,AFC North
+Tennessee Titans,AFC South
 Los Angeles Chargers,AFC West
 Green Bay Packers,NFC North
 Atlanta Falcons,NFC South
@@ -17,7 +17,7 @@ Denver Broncos,AFC West
 Minnesota Vikings,NFC North
 New York Jets,AFC East
 Philadelphia Eagles,NFC East
-Indianapolis Colts,AFC North
+Indianapolis Colts,AFC South
 Kansas City Chiefs,AFC West
 New York Giants,NFC East
 Chicago Bears,NFC North
@@ -27,7 +27,7 @@ New England Patriots,AFC East
 Seattle Seahawks,NFC West
 Tampa Bay Buccaneers,NFC South
 Las Vegas Raiders,AFC West
-Jacksonville Jaguars,AFC North
+Jacksonville Jaguars,AFC South
 Carolina Panthers,NFC South
 Baltimore Ravens,AFC North
-Houston Texans,AFC North
+Houston Texans,AFC South
